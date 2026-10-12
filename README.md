@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on : Practicing web development by building small projects and improving my coding skills.<br><br>🌱 I'm currently learning : HTML, CSS, JavaScript, TypeScript, React, and Next.js from the basics.<br><br>⚡ Fun fact : I'm a beginner developer who enjoys learning something new every day.<br><br>🎯 My Learning Goals: 
+🔭 I'm currently working on : Practicing web development by building small projects and improving my coding skills.<br><br>🌱 I'm currently learning : HTML, CSS, JavaScript, TypeScript, React, and Next.js from the basics.<br><br>⚡ Fun fact : I'm a beginner developer who enjoys learning something new every day.
+<br><br>🎯 My Learning Goals: 
 - Become a skilled Full Stack Developer.
 - Build real-world projects.
 - Improve problem-solving skills.
