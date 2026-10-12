@@ -5,9 +5,11 @@
 - Improve problem-solving skills.
 - Learn and grow every day.
 -<br><br> 📚 Learning Journey:
+
 - Currently exploring web development.
 - Learning programming fundamentals.
 - Practicing through hands-on projects.
+- 
 - 🚀 Future Goals:
 - Build my own portfolio website.
 - Contribute to open-source projects.
