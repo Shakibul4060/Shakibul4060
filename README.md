@@ -5,7 +5,7 @@
 - Build real-world projects.
 - Improve problem-solving skills.
 - Learn and grow every day.
-<br><br>📚 Learning Journey:
+  <br><br>📚 Learning Journey:
 
 - Currently exploring web development.
 - Learning programming fundamentals.
