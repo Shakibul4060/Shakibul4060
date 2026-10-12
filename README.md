@@ -9,7 +9,8 @@
 - Currently exploring web development.
 - Learning programming fundamentals.
 - Practicing through hands-on projects.
-- 🚀 Future Goals:
+<br><br> 🚀 Future Goals:
+
 - Build my own portfolio website.
 - Contribute to open-source projects.
 - Work on real-world applications.
