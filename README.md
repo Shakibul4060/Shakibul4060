@@ -3,17 +3,17 @@
 - Become a skilled Full Stack Developer.
 - Build real-world projects.
 - Improve problem-solving skills.
-- <br><br>Learn and grow every day.
-- <br><br>📚 Learning Journey:
-- <br><br>Currently exploring web development.
-- <br><br>Learning programming fundamentals.
-- <br><br>Practicing through hands-on projects.
-- <br><br>🚀 Future Goals:
-- <br><br>Build my own portfolio website.
-- <br><br>Contribute to open-source projects.
-- <br><br>Work on real-world applications.
-- <br><br>Become a professional web developer.
-- <br><br>Improving my coding skills step by step.
+- Learn and grow every day.
+- 📚 Learning Journey:
+- Currently exploring web development.
+- Learning programming fundamentals.
+- Practicing through hands-on projects.
+- 🚀 Future Goals:
+- Build my own portfolio website.
+- Contribute to open-source projects.
+- Work on real-world applications.
+- Become a professional web developer.
+- Improving my coding skills step by step.
 
 
 # 💻 Tech Stack:
